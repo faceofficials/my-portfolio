@@ -1,2 +1,1 @@
-# my-porfolio
-landing-page
+Portfolio - landing page.
